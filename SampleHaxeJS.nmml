@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="SampleHaxeJS" package="com.sample.haxejs" version="1.0.0" company="Joshua Granick" />
+	<app main="SampleHaxeJS" file="SampleHaxeJS" path="Export" />
+	
+	<source path="Source" />
+
+	<assets path="Assets" rename="assets" include="*" exclude="nme.svg" />
+	
+	<icon path="Assets/nme.svg" />
+	
+</project>

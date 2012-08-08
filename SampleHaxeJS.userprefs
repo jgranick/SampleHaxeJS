@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|HTML5" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleHaxeJS.nmml">
+    <Files>
+      <File FileName="SampleHaxeJS.nmml" Line="11" Column="32" />
+      <File FileName="Source/SampleHaxeJS.hx" Line="13" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="SampleHaxeJS" expanded="True">
+            <Node name="Source" expanded="True" />
+            <Node name="SampleHaxeJS.nmml" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
